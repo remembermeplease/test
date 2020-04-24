@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("hello");
 		System.out.println("난 조장이다");
 		System.out.println("나는 조원이다");
+	
+		System.out.println("zzzz");
 	}
 
 }
