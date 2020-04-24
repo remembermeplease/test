@@ -12,7 +12,7 @@ public class Test {
 		System.out.println("abcd");
 		System.out.println("gkgk");
 		
-		´¢³¶·³
+		System.out.println("bbbb");
 
 	}
 
