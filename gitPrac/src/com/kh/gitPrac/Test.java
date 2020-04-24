@@ -18,11 +18,19 @@ public class Test {
 		System.out.println("zzzz");
 		System.out.println("ㅋㅋㅋ");
 		
+<<<<<<< HEAD
 		System.out.println("브랜치 dev1");
 	
 		
 		
 
+=======
+		System.out.println("브랜치 dev1");
+		
+		System.out.println("브랜치 dev2");
+		
+	
+>>>>>>> refs/remotes/origin/dev2
 	}
 
 }
