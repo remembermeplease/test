@@ -23,14 +23,21 @@ public class Test {
 		
 		
 
+
 		System.out.println("브랜치 dev1");
 		
 		System.out.println("브랜치 dev2");
 		
+		System.out.println("연습 난 경섭");
+		
+		System.out.println("살려줘");
+		
+		System.out.println("안녕 난 강우정");
+		
+		System.out.println("한번더!!");
+		
 	
-		
 
-		
 		
 
 	}
