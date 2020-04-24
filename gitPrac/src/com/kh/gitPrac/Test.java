@@ -33,6 +33,9 @@ public class Test {
 		
 		System.out.println("살려줘");
 		
+		System.out.println("안녕 난 강우정");
+		
+		
 	
 
 	}
