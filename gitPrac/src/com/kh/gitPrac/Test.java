@@ -15,6 +15,8 @@ public class Test {
 		System.out.println("ㅋㅋㅋ");
 		
 		System.out.println("브랜치 dev1");
+		
+		System.out.println("우리조는 기억해조");
 	
 	
 	}
