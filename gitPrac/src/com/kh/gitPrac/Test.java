@@ -19,16 +19,12 @@ public class Test {
 		System.out.println("우리조는 기억해조");
 		
 		
+		
+		
+		
 	
 	
-		
-<<<<<<< HEAD
-		
-		
-		
-		
-=======
->>>>>>> refs/heads/master
+
 	}
 
 }
