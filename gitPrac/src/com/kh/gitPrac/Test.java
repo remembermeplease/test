@@ -33,6 +33,8 @@ public class Test {
 		
 		System.out.println("살려줘");
 		
+		System.out.println("한번더!!");
+		
 	
 
 	}
