@@ -35,6 +35,7 @@ public class Test {
 		
 		System.out.println("안녕 난 강우정");
 		
+		System.out.println("한번더!!");
 		
 	
 
